@@ -94,6 +94,7 @@ This will:
 ## Results
 - **Linear Regression Accuracy**: 67.08%
 - **Random Forest Accuracy**: 81.63%
+
 The **Random Forest model** performed the best, achieving the highest prediction accuracy.
 
 ## Conclusion
