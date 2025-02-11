@@ -25,7 +25,7 @@ After evaluating multiple models, the **Random Forest** model was found to be th
 
 ### Best Model: Random Forest
 
-- **Model Accuracy**: (Insert the best model accuracy here once computed)
+- **Model Accuracy**: 81.63%
 
 The **Random Forest Model** outperformed the **Linear Regression** model due to its ability to handle non-linear relationships and its robustness to overfitting.
 
